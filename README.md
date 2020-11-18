@@ -4,7 +4,7 @@
 
 Account age: **1** years
 
-Pushed **557** commits
+Pushed **559** commits
 
 Opened **1** issues
 
@@ -16,7 +16,7 @@ Own **31** repositories
 
 Contributed to **8** public repositories
 
-Top 8 most used languages across your repositories:
+Top 8 most used languages across my repositories are:
 
 
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B179.1%25)
