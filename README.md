@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+![Bob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobthesoftwaredeveloper&show_icons=true&count_private=true&theme=react)
+
 Account age: **1** years
 
-Pushed **555** commits
+Pushed **557** commits
 
 Opened **1** issues
 
