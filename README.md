@@ -4,7 +4,7 @@
 
 Account age: **1** years
 
-Pushed **833** commits
+Pushed **847** commits
 
 Opened **1** issues
 
@@ -12,14 +12,14 @@ Submitted **25** pull requests
 
 Received **0** stars
 
-Own **31** repositories
+Own **32** repositories
 
 Contributed to **11** public repositories
 
 Top 8 most used languages across my repositories are:
 
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B179.1%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B179%25)
 
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B15.6%25)
 
