@@ -2,9 +2,9 @@
 
 ![Bob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobthesoftwaredeveloper&show_icons=true&count_private=true&theme=react)
 
-Account age: **1** years
+Account age: **2** years
 
-Pushed **1227** commits
+Pushed **1229** commits
 
 Opened **1** issues
 
