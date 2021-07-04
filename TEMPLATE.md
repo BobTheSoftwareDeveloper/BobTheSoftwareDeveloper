@@ -2,6 +2,8 @@
 
 ![Bob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobthesoftwaredeveloper&show_icons=true&count_private=true&theme=react)
 
+[![Bob's github activity graph](https://activity-graph.herokuapp.com/graph?username=BobTheSoftwareDeveloper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 Account age: **{{ ACCOUNT_AGE }}** years
 
 Pushed **{{ COMMITS }}** commits
