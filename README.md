@@ -6,8 +6,10 @@
 
 **Additional Stats**:
 - Account age: **2** years
-- Pushed **2836** commits
+- Pushed **2837** commits
 - Opened **1** issues
 - Submitted **125** pull requests
 - Own **47** repositories
 - Contributed to **45** public repositories
+
+![](https://komarev.com/ghpvc/?username=BobTheSoftwareDeveloper)
