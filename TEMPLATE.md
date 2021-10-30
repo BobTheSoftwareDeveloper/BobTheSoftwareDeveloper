@@ -11,3 +11,5 @@
 - Submitted **{{ PULL_REQUESTS }}** pull requests
 - Own **{{ REPOSITORIES }}** repositories
 - Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+
+![](https://komarev.com/ghpvc/?username=BobTheSoftwareDeveloper)
