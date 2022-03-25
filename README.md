@@ -5,7 +5,7 @@
 [![Bob's github activity graph](https://activity-graph.herokuapp.com/graph?username=BobTheSoftwareDeveloper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **Additional Stats**:
-- Account age: **2** years
+- Account age: **3** years
 - Pushed **2609** commits
 - Opened **1** issues
 - Submitted **125** pull requests
