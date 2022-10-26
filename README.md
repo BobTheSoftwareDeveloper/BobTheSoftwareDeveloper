@@ -10,6 +10,6 @@
 - Opened **1** issues
 - Submitted **137** pull requests
 - Own **58** repositories
-- Contributed to **12** public repositories
+- Contributed to **7** public repositories
 
 ![](https://komarev.com/ghpvc/?username=BobTheSoftwareDeveloper)
