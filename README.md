@@ -4,6 +4,8 @@
 
 ![Bob's github activity graph](https://github-readme-activity-graph-c.herokuapp.com/graph?username=BobTheSoftwareDeveloper&theme=react-dark)
 
+![Bob's github activity graph](https://github-stats-bob.s3.ap-southeast-2.amazonaws.com/graph.xml)
+
 **Additional Stats**:
 - Account age: **3** years
 - Pushed **1887** commits
