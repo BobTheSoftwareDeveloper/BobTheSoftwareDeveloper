@@ -6,9 +6,9 @@
 
 **Additional Stats**:
 - Account age: **3** years
-- Pushed **1918** commits
+- Pushed **1440** commits
 - Opened **1** issues
-- Submitted **139** pull requests
+- Submitted **70** pull requests
 - Own **62** repositories
 - Contributed to **6** public repositories
 
