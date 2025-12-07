@@ -7,6 +7,6 @@
 - Pushed **1716** commits
 - Opened **2** issues
 - Submitted **73** pull requests
-- Own **75** repositories
+- Own **74** repositories
 
 ![](https://komarev.com/ghpvc/?username=BobTheSoftwareDeveloper)
